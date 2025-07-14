@@ -1,5 +1,3 @@
-[https://g.co/gemini/share/552da9b07427](https://g.co/gemini/share/552da9b07427)
-
 **Breakdown of 5 Steganographic Jailbreak Attacks**  
 A Research Synthesis for Print  
 By Skot Colacicco
