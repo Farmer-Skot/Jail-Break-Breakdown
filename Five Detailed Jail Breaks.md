@@ -363,7 +363,7 @@ The "1337" jailbreak is the minimal viable exploit: one orthographic hop plus a 
 
 ### **Case Study 5:** 
 
-The “1337 Self-Calming Loop”
+The “1337 Self-Calming Loop” designed to be on a physical card for an emobodied ai.
 
 #### A 60-Second Dada-Style Technical Note
 
